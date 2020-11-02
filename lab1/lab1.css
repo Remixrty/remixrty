@@ -1,0 +1,69 @@
+h1{
+	font-family: "Copperplate";
+	line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+	color: white;
+	margin: 0;
+	background: #1d1d1f;
+	font-size: x-large;
+}
+
+h2{
+	margin:0;
+	font-family: "Copperplate";
+	color: white;
+	text-align: center;
+	background-color:#151515;
+	font-size: x-large;
+}
+
+
+h3{
+	margin:0;
+	font-family: "Copperplate";
+	color: black;
+	font-size: x-large;
+	text-align: left;
+	background-color:Silver;
+	
+}
+
+.button{
+	cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 17px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "Copperplate";
+    min-width: 28px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 18px;
+    background: DarkKhaki;
+    color: #fff;
+}
+.button:hover{
+	color: black
+}
+body{
+	margin:0;
+	background:black;
+}
+
+
+
+@font-face {
+	font-family: Copperplate;
+	src: url("Copperplate.ttf") format("truetype");
+	src: url("Copperplate.ttf");
+	src: url("Copperplate.ttf") format("embedded-opentype");
+	src: url("Copperplate.ttf") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
