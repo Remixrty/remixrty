@@ -1,0 +1,151 @@
+h1{
+	font-family: "Copperplate";
+	line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+	color: white;
+	margin: 0;
+	position:fixed;
+	background: #1d1d1f;
+	font-size: x-large;
+}
+
+h2{
+	
+	margin:0;
+	font-family: "Copperplate";
+	color: white;
+	text-align: center;
+	background-color:#151515;
+	font-size: x-large;
+}
+
+h21{
+	
+	margin:0;
+	font-family: "Copperplate";
+	color: white;
+	text-align: center;
+	background-color:Silver;
+	font-size: x-large;
+}
+
+h3{
+	margin:0;
+	font-family: "Copperplate";
+	color: black;
+	font-size: x-large;
+	text-align: left;
+	background-color:Silver;
+}
+
+.button{
+	cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 17px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "Copperplate";
+    min-width: 28px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 18px;
+    background: DarkKhaki;
+    color: #fff;
+}
+.button:hover{
+	color: black
+}
+body{
+	margin:0;
+	background:black;
+}
+
+#toTop {
+width:100px;
+border:1px solid #ccc;
+background:Silver;
+text-align:center;
+padding:5px;
+position:fixed;
+bottom:30px;
+left:47%;
+
+cursor:pointer;
+display:none;
+color:#333;
+font-family:Copperplate;
+font-size:11px;
+}
+
+.image{
+	border-radius: 10%;
+  width: 950px;
+  height: 700px;
+  background-image:url(ава.jpg);
+  background-position: center center;
+  background-size:cover;
+}
+
+.image1{
+	border-radius: 10%;
+  width: 700px;
+  height: 700px;
+  background-image:url(ава-neg.jpg);
+  background-position: center center;
+  background-size:cover;
+}
+
+.box {
+  border-radius: 10%;
+  width: 200px;
+  height: 200px;
+  background:url(test.gif);
+  background-position: center center;
+  background-size:cover;
+  text-align:center;
+  transition: all 1s; ease 2s;
+}
+.box:hover {
+  border-radius: 90%;
+  transform: rotate(360deg);
+}
+
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:100';
+html,
+body {
+  font-family: 'Roboto Mono', monospace;
+  background: #212121;
+  height: 100%;
+}
+.container {
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.text {
+  font-weight: 100;
+  font-size: 28px;
+  color: #fafafa;
+}
+.dud {
+  color: #757575;
+}
+
+@font-face {
+	font-family: Copperplate;
+	src: url("Copperplate.ttf") format("truetype");
+	src: url("Copperplate.ttf");
+	src: url("Copperplate.ttf") format("embedded-opentype");
+	src: url("Copperplate.ttf") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
+

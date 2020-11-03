@@ -1,0 +1,36 @@
+body{
+	background: linear-gradient(to top left, powderblue, pink);
+	min-height: 1000px;
+	font-family: "Copperplate";
+	font-size: 12px;
+	margin:0;
+}
+	
+h1{
+	font-family: "Copperplate";
+	line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+	color: white;
+	margin:0;
+	background: #1d1d1f;
+	font-size: x-large;
+}
+	
+
+	
+	
+	
+	
+	
+	
+	
+@font-face {
+	font-family: Copperplate;
+	src: url("Copperplate.ttf") format("truetype");
+	src: url("Copperplate.ttf");
+	src: url("Copperplate.ttf") format("embedded-opentype");
+	src: url("Copperplate.ttf") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
