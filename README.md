@@ -7,6 +7,13 @@ This is the place where my study projects gather dust..
 Привет!
 Я занимаюсь веб-разработкой с лета 2021 года, есть личные проекты.
 
+Лайв проекты можно посмотреть на Vercel: 
+
+• https://flory.vercel.app/
+• https://beer-market.vercel.app/
+• https://blockchain-solitions.vercel.app/
+• https://paycheck-pied.vercel.app/
+
 Из интересного:
 
 • Molty.com - сервис для создания персональной мультиссылки (аналог Taplink или Contact.me)
